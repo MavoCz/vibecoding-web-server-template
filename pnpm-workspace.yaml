@@ -1,0 +1,4 @@
+packages:
+  - "common"
+  - "web"
+  - "e2e"
